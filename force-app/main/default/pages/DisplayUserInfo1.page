@@ -1,0 +1,9 @@
+<apex:page >
+  <apex:pageblock >
+  <apex:pageblockSection >
+      {! $User.FirstName & ' ' & $User.LastName }*/
+      ({! $User.Username })
+	  {!$Profile.Name}
+  </apex:pageblockSection>
+  </apex:pageblock>
+</apex:page>

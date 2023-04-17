@@ -1,0 +1,8 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+	<lightning:card footer="Hello World Footer" title="Hello World">
+        <p class="slds-p-horizontal_small">
+           This is Santosh first Aura Component
+            <lightning:button variant="success" label="Success" title="Success" />
+        </p>
+    </lightning:card>
+    </aura:component>

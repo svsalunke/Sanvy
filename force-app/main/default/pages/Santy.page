@@ -1,0 +1,5 @@
+<apex:page controller="SantyController">
+    <apex:pageBlock title="Hello {!$User.FirstName}!">
+        This is Santosh Salunke
+    </apex:pageBlock>
+</apex:page>

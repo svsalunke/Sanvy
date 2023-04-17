@@ -1,0 +1,7 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global" >
+    <h1> Name:Mr.Santosh Vitthal Salunke</h1>
+    <p>  Address:Katraj Manikmoti Complex,Flat 7</p>
+    <p>  D1 Building,Morebaug,Katraj</p>
+    <div>Near Reliance Digital</div>
+    <span>Pune:4111046</span>
+</aura:component>
